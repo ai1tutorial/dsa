@@ -1,5 +1,5 @@
 
-Valid BST
+Question 1 :Valid BST
 
 
 class Solution {
@@ -19,7 +19,7 @@ class Solution {
 }
 
 
-LeetCode : 1506. Find Root of N-Ary Tree
+Question 2 : LeetCode : 1506. Find Root of N-Ary Tree
 class Solution {
     public Node findRoot(List<Node> tree) {
         Set<Node> set = new HashSet<>();
